@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="headshot.jpg" alt="Robert Campbell" width="200"/>
-</p>
+<h1 align="center">Robert Campbell</h1>
+<h3 align="center">☁️ Cloud Platform Engineer</h3>
 
 <p align="center">
   <!-- Skill badges -->
@@ -13,10 +12,6 @@
   <img src="https://img.shields.io/badge/OpenTofu-FFDA44?style=for-the-badge&logo=terraform&logoColor=black" alt="OpenTofu"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
 </p>
-
-# 👋 Hi, I'm Robert Campbell
-
-**Cloud Platform Engineer** | AWS & GCP | Kubernetes | Go | Python | GitLab CI/CD
 
 ---
 
@@ -82,3 +77,7 @@ I excel at bridging infrastructure and application development teams, automating
 - 🌐 [Portfolio / Blog](https://yourwebsite.com)
 
 ---
+
+<p align="center">
+  <img src="headshot.jpg" alt="Robert Campbell" width="200"/>
+</p>
