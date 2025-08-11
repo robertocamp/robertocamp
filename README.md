@@ -2,8 +2,12 @@
 <h3 align="center">☁️ Cloud Platform Engineer</h3>
 
 <p align="center">
-  <!-- Skill badges -->
+  <!-- AWS Certification badge prominently displayed -->
   <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect – Associate"/>
+</p>
+
+<p align="center">
+  <!-- Other skill badges -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
