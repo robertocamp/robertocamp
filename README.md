@@ -1,4 +1,8 @@
 <h1 align="center">Robert Campbell</h1>
+<p align="center">
+  <img src="headshot.png" alt="Robert Campbell" width="200"/>
+</p>
+
 <h3 align="center">☁️ Cloud Platform Engineer</h3>
 
 <p align="center">
@@ -82,6 +86,3 @@ I excel at bridging infrastructure and application development teams, automating
 
 ---
 
-<p align="center">
-  <img src="headshot.png" alt="Robert Campbell" width="200"/>
-</p>
