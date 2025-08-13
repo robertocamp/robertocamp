@@ -83,5 +83,5 @@ I excel at bridging infrastructure and application development teams, automating
 ---
 
 <p align="center">
-  <img src="headshot.jpg" alt="Robert Campbell" width="200"/>
+  <img src="headshot.png" alt="Robert Campbell" width="200"/>
 </p>
